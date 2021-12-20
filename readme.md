@@ -1,9 +1,8 @@
 ### Hi :wave:, I'm Ben
 
 [![](https://img.shields.io/badge/-Ben%20Dickman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamindickman/)](https://www.linkedin.com/in/benjamindickman/)
-
-![](https://visitor-badge.glitch.me/badge?page_id=bendickman.bendickman)
 [![](https://img.shields.io/badge/-@bendickman-%23181717?style=flat-square&logo=github)](https://github.com/bendickman)
+![](https://visitor-badge.glitch.me/badge?page_id=bendickman.bendickman)
 
 I am a highly motivated Senior .NET Web Developer with 8 years of experience, currently working at one of the largest and most successful Estate Agency providers in the UK.
 
