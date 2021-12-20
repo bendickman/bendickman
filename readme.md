@@ -8,7 +8,7 @@ I am a highly motivated Senior .NET Web Developer with 8 years of experience, cu
 
 I have recently achieved the highest level of certification to become an [Umbraco Certified Master](https://umbraco.com/training/certified-developers/developer/?id=a170f93c-8cb3-4a2b-8f04-fa67e66a70b1).
 
-### Skills summary:
+## Skills summary
 
 - C#
 - .NET 5
@@ -25,6 +25,6 @@ I have recently achieved the highest level of certification to become an [Umbrac
 - CI/CD with Azure DevOps / Octopus Deploy
 - SOLID Principles / Design Patterns
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=bendickman&show_icons=true&theme=dracula)
