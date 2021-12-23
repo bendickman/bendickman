@@ -28,7 +28,7 @@ I have recently achieved the highest level of certification to become an [Umbrac
 ## Stats
 
 <a href="https://github.com/bendickman">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bendickman&show_icons=true&theme=dracula&count_private=true" alt="Ben Dickman's GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendickman&theme=dracula&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bendickman&show_icons=true&theme=dracula&count_private=true" alt="Ben Dickman's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendickman&theme=dracula&layout=compact" 
     alt="Ben Dickman's GitHub Top Languages" />
 </a>
