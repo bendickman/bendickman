@@ -11,14 +11,15 @@ I have recently achieved the highest level of certification to become an [Umbrac
 ## Skills summary
 
 - C#
-- .NET 5
+- .NET 6
 - ASP.NET MVC & WebForms
 - Umbraco 8
-- Unit Testing with NUnit and Moq
-- GIT source control
+- Unit/Integration Testing with NUnit and Moq
+- GIT/TFS source control
 - HTML5 / CSS3 / Bootstrap
 - JavaScript / jQuery
 - Agile Methodology (Scrum and Kanban)
+- Behaviour Driven Development (BDD)
 - Web API / RESTful web services
 - Entity Framework / Dapper ORM
 - SQL Server / T-SQL
