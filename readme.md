@@ -50,17 +50,18 @@ I am experienced in developing innovative, elegant and scalable web applications
 </p>
 
 ## Stats
-
+<div width="100%">
 <a href="https://github.com/bendickman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bendickman&show_icons=true&theme=noctis_minimus&count_private=true" alt="Ben Dickman's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendickman&theme=noctis_minimus&layout=compact" 
+  <img height="180em" width="45%" src="https://github-readme-stats-navy.vercel.app/api?username=bendickman&show_icons=true&theme=noctis_minimus&count_private=true" alt="Ben Dickman's GitHub Stats" />
+  <img height="180em" width="45%" src="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=bendickman&theme=noctis_minimus&layout=compact" 
     alt="Ben Dickman's GitHub Top Languages" />
 </a>
+  </div>
 
 ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/bendickman/the-worry-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bendickman&repo=the-worry-list&theme=noctis_minimus&locale=en" /></a><a href="https://github.com/bendickman/mediator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bendickman&repo=mediator&theme=noctis_minimus&locale=en" /></a></div><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/bendickman/the-worry-list" align="left"><img align="left" width="45%" src="https://github-readme-stats-navy.vercel.app/api/pin/?username=bendickman&repo=the-worry-list&theme=noctis_minimus&locale=en" /></a><a href="https://github.com/bendickman/mediator" align="right"><img align="right" width="45%" src="https://github-readme-stats-navy.vercel.app/api/pin/?username=bendickman&repo=mediator&theme=noctis_minimus&locale=en" /></a></div><br /><br /><br /><br />
 
 <br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/bendickman/aspnet-core-multi-tenant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bendickman&repo=aspnet-core-multi-tenant&theme=noctis_minimus&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/bendickman/aspnet-core-multi-tenant" align="left"><img align="left" width="45%" src="https://github-readme-stats-navy.vercel.app/api/pin/?username=bendickman&repo=aspnet-core-multi-tenant&theme=noctis_minimus&locale=en" /></a></div>
