@@ -6,6 +6,8 @@ A Senior .NET Web Developer
 
 <p align="left"> <a href="https://www.github.com/bendickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjamindickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5296627/ben-d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
+## 👨‍💻 About Me
+
 I am a highly motivated Senior .NET Web Developer with over 9 years of experience, currently working at one of the largest and most successful Estate Agency providers in the UK.
 
 I am experienced in developing innovative, elegant and scalable web applications.
@@ -15,7 +17,7 @@ I am experienced in developing innovative, elegant and scalable web applications
 * ✉️  You can contact me at [ben.dickman@gmail.com](mailto:ben.dickman@gmail.com)
 * 🧠  I'm a certified [Umbraco Master](https://umbraco.com/training/certified-developers/developer/?id=a170f93c-8cb3-4a2b-8f04-fa67e66a70b1)
 
-## Skills summary
+## 🛠 Skills summary
 
 - C#
 - .NET 6
@@ -49,7 +51,7 @@ I am experienced in developing innovative, elegant and scalable web applications
 
 </p>
 
-## Stats
+## 🔥 Stats
 <div width="100%">
 <a href="https://github.com/bendickman">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=bendickman&show_icons=true&theme=noctis_minimus&count_private=true" alt="Ben Dickman's GitHub Stats" />
