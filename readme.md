@@ -4,7 +4,7 @@ Hi 👋 I'm Benjamin Dickman
 A Senior .NET Web Developer
 -------------------------
 
-<p align="left"> <a href="https://www.github.com/bendickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" /></a> <a href="https://www.linkedin.com/in/benjamindickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /></a> <a href="https://www.stackoverflow.com/users/5296627/ben-d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="48" height="48" /></a></p>
+<p align="left"> <a href="https://www.github.com/bendickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjamindickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5296627/ben-d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 I am a highly motivated Senior .NET Web Developer with over 9 years of experience, currently working at one of the largest and most successful Estate Agency providers in the UK.
 
