@@ -8,32 +8,28 @@ A Senior .NET Web Developer
 
 ## 👨‍💻 About Me
 
-I am a highly motivated Senior .NET Web Developer with over 9 years of experience, currently working at one of the largest and most successful Estate Agency providers in the UK.
+I am a highly motivated Senior .NET Web Developer with 10 years' of experience, currently working in the Estate Agency sector.
 
 I am experienced in developing innovative, elegant and scalable web applications.
 
-* 🌍  I'm a Senior .NET Web Developer based in the UK
+* 🌍  I'm a Senior .NET Web Developer
 * 🖥️  Have a look at my [Personal Site](http://benjamindickman.com)
 * ✉️  You can contact me at [ben.dickman@gmail.com](mailto:ben.dickman@gmail.com)
 * 🧠  I'm a certified [Umbraco Master](https://umbraco.com/training/certified-developers/developer/?id=a170f93c-8cb3-4a2b-8f04-fa67e66a70b1)
 
 ## 🛠 Skills summary
 
-- C#
-- .NET 6
-- ASP.NET MVC & WebForms
-- Umbraco 8
-- Unit/Integration Testing with NUnit and Moq
-- GIT/TFS source control
-- HTML5 / CSS3 / Bootstrap
-- JavaScript / jQuery
-- Agile Methodology (Scrum and Kanban)
-- Behaviour Driven Development (BDD)
-- Web API / RESTful web services
-- Entity Framework / Dapper ORM
-- SQL Server / T-SQL
-- CI/CD with Azure DevOps / Octopus Deploy
-- SOLID Principles / Design Patterns
+Server-side Technologies - C#, .NET Framework & Core, ASP.NET MVC & Webforms, Web API, REST, Umbraco 8 CMS, Entity Framework Core & Dapper
+
+Client-side Technologies - HTML5, CSS3, JavaScript, jQuery, Bootstrap
+
+Source Control - GIT, TFS
+
+Testing - Unit & Integration Testing with NUnit & Moq, Automated Testing with SpecFlow & Selenium
+
+Tooling & Workflow - Agile Methodology (Scrum & Kanban), BDD, CI/CD with Azure DevOps & Octopus Deploy
+
+Cloud Technologies - Azure App Services, Congitive Search, Service Bus, Blob Storage, SQL Database
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
