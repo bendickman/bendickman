@@ -15,11 +15,11 @@ I am experienced in developing innovative, elegant and scalable web applications
 * 🌍  I'm a Senior .NET Web Developer
 * 🖥️  Have a look at my [Personal Site](http://benjamindickman.com)
 * ✉️  You can contact me at [ben.dickman@gmail.com](mailto:ben.dickman@gmail.com)
-* 🧠  I'm a certified [Umbraco Master](https://umbraco.com/training/certified-developers/developer/?id=a170f93c-8cb3-4a2b-8f04-fa67e66a70b1)
+* 🧠  I'm a certified Umbraco Master
 
 ## 🛠 Skills summary
 
-Server-side Technologies - C#, .NET Framework & Core, ASP.NET MVC & Webforms, Web API, REST, Umbraco 8 CMS, Entity Framework Core & Dapper
+Server-side Technologies - C#, .NET Framework, .NET 6, ASP.NET MVC & Webforms, Web API, REST, Umbraco 8 CMS, Entity Framework Core & Dapper
 
 Client-side Technologies - HTML5, CSS3, JavaScript, jQuery, Bootstrap
 
@@ -27,9 +27,24 @@ Source Control - GIT, TFS
 
 Testing - Unit & Integration Testing with NUnit & Moq, Automated Testing with SpecFlow & Selenium
 
-Tooling & Workflow - Agile Methodology (Scrum & Kanban), BDD, CI/CD with Azure DevOps & Octopus Deploy
+Tooling & Workflow - Agile Methodology (Scrum & Kanban), Bahaviour-driven Development (BDD), Continuous Integration & Continuous Delivery (CI/CD) with Azure DevOps & Octopus Deploy
 
 Cloud Technologies - Azure App Services, Congitive Search, Service Bus, Blob Storage, SQL Database
+
+## 🎨 Self Development
+
+As a Senior .NET Web Developer, it is vital to keep up-to-date with the latest technology trends and frameworks.
+
+As someone who enjoys learning new topics, I will often be found reading blog posts, watching video courses or writing code to enhance my skill set.
+
+Some of the areas and technologies I am currently learning:
+
+- Docker
+- Test-driven Development (TDD)
+- Blazor WebAssembly & Server-side
+- Infrastructure-as-code using Bicep
+
+<br>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
