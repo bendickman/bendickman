@@ -1,39 +1,39 @@
 Hi 👋 I'm Benjamin Dickman
 ====================
 
-A Senior .NET Web Developer
+A Senior Software Engineer
 -------------------------
 
 <p align="left"> <a href="https://www.github.com/bendickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjamindickman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5296627/ben-d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ## 👨‍💻 About Me
 
-I am a highly motivated Senior .NET Web Developer with 10 years' of experience, currently working in the Estate Agency sector.
+I am a highly motivated Senior Software Engineer with over 10 years' of experience, currently working in the Estate Agency sector.
 
 I am experienced in developing innovative, elegant and scalable web applications.
 
-* 🌍  I'm a Senior .NET Web Developer
+* 🌍  I'm a Senior Software Engineer
 * 🖥️  Have a look at my [Personal Site](http://benjamindickman.com)
 * ✉️  You can contact me at [ben.dickman@gmail.com](mailto:ben.dickman@gmail.com)
 * 🧠  I'm a certified Umbraco Master
 
 ## 🛠 Skills summary
 
-Server-side Technologies - C#, .NET Framework, .NET 6, ASP.NET MVC & Webforms, Web API, REST, Umbraco 8 CMS, Entity Framework Core & Dapper
+Server-side Technologies - C#, .NET Framework, .NET 6+, ASP.NET MVC & Webforms, Web API, REST, Umbraco CMS, Entity Framework Core & Dapper
 
-Client-side Technologies - HTML5, CSS3, JavaScript, jQuery, Bootstrap
+Client-side Technologies - HTML5, CSS3, Angular, React, JavaScript, jQuery, Bootstrap
 
 Source Control - GIT, TFS
 
-Testing - Unit & Integration Testing with NUnit & Moq, Automated Testing with SpecFlow & Selenium
+Testing - Unit & Integration Testing with XUnit & Moq, Automated Testing with SpecFlow & Selenium
 
 Tooling & Workflow - Agile Methodology (Scrum & Kanban), Bahaviour-driven Development (BDD), Continuous Integration & Continuous Delivery (CI/CD) with Azure DevOps & Octopus Deploy
 
-Cloud Technologies - Azure App Services, Congitive Search, Service Bus, Blob Storage, SQL Database
+Cloud Technologies - Azure App Services, Congitive Search, Service Bus, Blob Storage, Key Vault, SQL Database
 
 ## 🎨 Self Development
 
-As a Senior .NET Web Developer, it is vital to keep up-to-date with the latest technology trends and frameworks.
+As a Senior Software Engineer, it is vital to keep up-to-date with the latest technology trends and frameworks.
 
 As someone who enjoys learning new topics, I will often be found reading blog posts, watching video courses or writing code to enhance my skill set.
 
@@ -42,7 +42,6 @@ Some of the areas and technologies I am currently learning:
 - Docker
 - Test-driven Development (TDD)
 - Blazor WebAssembly & Server-side
-- Infrastructure-as-code using Bicep
 
 <br>
 
